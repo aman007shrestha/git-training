@@ -6,3 +6,4 @@ git add --all
 git add fileName
 git commit -m "My message"
 * conventions for msg: no past tenses for commit message
+git log => See changes made with timestamp
